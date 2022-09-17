@@ -1,0 +1,6 @@
+models
+data_sets
+try
+__pycache__/
+BEST_checkpoint_flicker30k_5_cap_per_img_5_min_word_freq.pth.tar
+checkpoint_flicker30k_5_cap_per_img_5_min_word_freq.pth.tar
